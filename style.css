@@ -126,7 +126,8 @@ span{
 }
 
 .home-content p {
-    font-size: 1.6rem;
+    font-size: 2rem;
+   align-content: space-between;
 }
 
 .social-media a{
@@ -193,7 +194,7 @@ span{
     font-size: 2.6rem;
 }
 .about-content p {
-    font-size: 1.6rem;
+    font-size: 2rem;
     margin:2rem 0 3rem ;
 
 }
@@ -238,6 +239,8 @@ span{
 .services-box p{
     font-size: 1.6rem;
     margin: 1rem 0 3rem;
+    line-height: 1.5;
+    letter-spacing: 0.05em;
 }
 
 /* css de la Partie portfolio */
